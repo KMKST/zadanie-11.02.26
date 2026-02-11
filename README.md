@@ -1,3 +1,3 @@
 # System logowania
-user: Admin
+user: admin
 haslo: haslo123
